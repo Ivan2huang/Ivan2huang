@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ivan2huang
-- 👀 I’m interested in Game
+- 👋 Hi, I’m Ivan2huang
+- 👀 I’m interested in PlayStaion Game
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on React Native
 - 📫 lvan@cxagroup.com
